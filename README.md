@@ -110,7 +110,7 @@ SELECT * FROM analysts WHERE name = 'Loknadh Kona';
 
 ```
 🎓  M.S. Data Science        University of Memphis         GPA: 3.81 / 4.0    2024–2025
-🎓  B.Tech. ECE              Amrita Sai Institute                             2017–2021
+🎓  B.Tech. ECE              Amrita Sai Institute          GPA: 3.06 / 4.0    2017–2021
 ```
 
 <p>
