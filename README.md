@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Loknadh%20Kona&fontSize=52&fontColor=00e5ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist&descSize=20&descAlignY=58&descColor=b0bec5&animation=fadeIn" width="100%" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;ETL+Pipelines+%7C+Dimensional+Modeling;M.S.+Data+Science+%E2%80%94+Univ.+of+Memphis+%7C+GPA+3.81;3%2B+Years+of+Analytics+%26+BI+Experience;Open+to+Data+Analyst+%2F+Data+Scientist+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;ETL+Pipelines+%7C+Dimensional+Modeling; M.S.+Data+Science+%E2%80%94+Univ.+of+Memphis+%7C+GPA+3.81;3%2B+Years+of+Analytics+%26+BI+Experience;Open+to+Data+Analyst+%2F+Data+Scientist+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -121,16 +121,6 @@ SELECT * FROM analysts WHERE name = 'Loknadh Kona';
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaSai315&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=b0bec5" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSai315&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=b0bec5" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSai315&theme=tokyonight&hide_border=true&background=0d1117&stroke=00e5ff&ring=00e5ff&fire=ff6b35&currStreakLabel=00e5ff" />
-</div>
 
 ---
 
