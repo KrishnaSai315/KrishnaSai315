@@ -1,10 +1,28 @@
 <div align="center">
-
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Loknadh%20Kona&fontSize=52&fontColor=00e5ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist&descSize=20&descAlignY=58&descColor=b0bec5&animation=fadeIn" width="100%" />
-
+  
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;ETL+Pipelines+%7C+Dimensional+Modeling;M%2ES%2E+Data+Science+%E2%80%94+Univ%2E+of+Memphis+%7C+GPA+3%2E81;3%2B+Years+of+Analytics+%26+BI+Experience;Open+to+Data+Analyst+%2F+Data+Scientist+Roles" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;ETL+Pipelines+%7C+Dimensional+Modeling;🎓+M.S.+Data+Science+—+Memphis+%7C+GPA+3.81;3%2B+Years+of+Analytics+%26+BI+Experience;Open+to+Data+Analyst+%2F+Data+Scientist+Roles" alt="Typing SVG" />
+<br/>
+
+<!-- CONTACT BADGES -->
+
+<a href="mailto:loknadh.kona@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-loknadh.kona@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/lvkrishna3" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-lvkrishna3-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/KrishnaSai315" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-KrishnaSai315-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Location-Memphis%2C%20TN-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</div>
+
+
+
 
 <br/>
 
