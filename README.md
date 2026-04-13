@@ -90,8 +90,8 @@ WHERE name = 'Loknadh Kona';
 
 Built a production-grade data warehouse from scratch (Bronze → Silver → Gold). Wrote 13 advanced analytical scripts covering customer segmentation (VIP / Regular / New), product rankings, and time-series revenue analysis (YoY & MoM) using `RANK`, `DENSE_RANK`, `LAG`, and window functions.
 
-🔗 [View Repository →](https://github.com/KrishnaSai315/sql-DataWarehouse_Project)
-🔗 [View Repository →](https://github.com/KrishnaSai315/SQL-Data-Analytics)
+🔗 [View Repository  Data Warehouse →](https://github.com/KrishnaSai315/sql-DataWarehouse_Project)
+🔗 [View Repository Data Analytics →](https://github.com/KrishnaSai315/SQL-Data-Analytics)
 
 ---
 
