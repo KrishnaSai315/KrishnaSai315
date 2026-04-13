@@ -91,6 +91,7 @@ WHERE name = 'Loknadh Kona';
 Built a production-grade data warehouse from scratch (Bronze → Silver → Gold). Wrote 13 advanced analytical scripts covering customer segmentation (VIP / Regular / New), product rankings, and time-series revenue analysis (YoY & MoM) using `RANK`, `DENSE_RANK`, `LAG`, and window functions.
 
 🔗 [View Repository →](https://github.com/KrishnaSai315/sql-DataWarehouse_Project)
+🔗 [View Repository →](https://github.com/KrishnaSai315/SQL-Data-Analytics)
 
 ---
 
@@ -107,25 +108,12 @@ Uncovered a **15% hidden delay rate** in Standard Class shipments across the Sou
 
 ```
 🎓  M.S. Data Science      University of Memphis           GPA: 3.81 / 4.0    2024–2025
-🎓  B.Tech. ECE            Amrita Sai Institute of S&T                         2017–2021
+🎓  B.Tech. ECE            Amrita Sai Institute of S&T     GPA: 3.06 / 4.0    2017–2021
 ```
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Basic_(Apr_2026)-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-SQL_for_Data_Science_(UC_Davis)-0056D2?style=flat-square&logo=coursera&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-Excel_Skills_for_Business-0056D2?style=flat-square&logo=coursera&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KrishnaSai315&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=8ecae6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSai315&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=8ecae6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSai315&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff6b35&currStreakLabel=00e5ff" />
-</div>
 
 ---
 
