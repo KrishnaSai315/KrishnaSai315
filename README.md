@@ -1,83 +1,76 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a4a,100:0d2137&height=220&section=header&text=Loknadh%20Kona&fontSize=60&fontColor=00e5ff&fontAlignY=40&desc=Data%20Analyst%20%7C%20Data%20Scientist&descSize=22&descAlignY=62&descColor=8ecae6&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a4a,100:0d2137&height=200&section=header&text=Loknadh%20Kona&fontSize=58&fontColor=00e5ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist&descSize=22&descAlignY=60&descColor=8ecae6&animation=fadeIn" />
 
-<!-- TYPING ANIMATION — safe ASCII only, no emojis -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=620&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;ETL+Pipelines+%7C+Dimensional+Modeling;MS+Data+Science+%7C+GPA+3.81+%7C+Univ+of+Memphis;3%2B+Years+in+Analytics+%26+BI+Delivery;Open+to+Data+Analyst+%2F+Scientist+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Excel;ETL+Pipelines+%7C+Data+Warehousing+%7C+BI+Delivery;3%2B+Years+Analytics+%26+Engineering+Experience;M.S.+Data+Science+%40+University+of+Memphis" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<!-- CONTACT LINKS -->
 [![Gmail](https://img.shields.io/badge/Gmail-loknadh.kona%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:loknadh.kona@gmail.com)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lvkrishna3-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lvkrishna3)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-KrishnaSai315-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KrishnaSai315)
-&nbsp;
-![Location](https://img.shields.io/badge/%F0%9F%93%8D-Memphis%2C%20TN-00e5ff?style=flat-square)
+[![Memphis TN](https://img.shields.io/badge/Memphis%2C%20TN-00b4d8?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```sql
-SELECT name, role, experience, education, status
-FROM analysts
-WHERE name = 'Loknadh Kona';
+SELECT  name, title, experience, edge
+FROM    analysts
+WHERE   name = 'Loknadh Kona';
 ```
 
-| | |
+| Field | Value |
 |---|---|
-| 🎓 **Education** | M.S. Data Science — University of Memphis &nbsp;`GPA: 3.81 / 4.0` |
+| 🎓 **Education** | M.S. Data Science — University of Memphis · GPA 3.81 / 4.0 |
 | 💼 **Experience** | 3+ years · SQL analytics · ETL pipelines · BI dashboards |
-| 🏢 **Past Roles** | Junior Data Scientist @ BEPEC Solutions &nbsp;·&nbsp; Systems Engineer @ Atos Global |
+| 🏢 **Past Roles** | Junior Data Scientist @ BEPEC Solutions · Systems Engineer @ Atos Global |
 | 📊 **Domains** | Financial services · Sales analytics · Supply chain & Logistics |
-| 🎯 **Seeking** | Data Analyst / Data Scientist roles in the US |
 | ⚡ **Edge** | 99%+ pipeline availability · Executive-ready dashboards that drive decisions |
-
----
-
-## 🛠️ Tech Stack
-
-**SQL & Data Engineering**
-
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-0052CC?style=flat-square&logo=apacheairflow&logoColor=white)
-![Medallion](https://img.shields.io/badge/Medallion_Architecture-FF6B35?style=flat-square&logo=databricks&logoColor=white)
-![Star Schema](https://img.shields.io/badge/Star_Schema-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**BI & Reporting**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Programming & Analytics**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 🏆 Impact at a Glance
 
-<div align="center">
-
-| Metric | Result | Method |
-|:---|:---:|:---|
+| Metric | Result | How |
+|---|---|---|
 | Manual reporting effort | **↓ 30%** | Self-service Power BI & Tableau dashboards |
 | Downstream data errors | **↓ 25%** | Automated SQL + Python anomaly detection |
 | Business-review prep time | **↓ 30%** | Excel VBA macros |
-| Financial pipeline availability | **99%+** | SLA ops at Atos Global (Franklin Templeton, Cummins) |
-| Hidden shipment delay uncovered | **15%** | SQL-engineered Days-to-Ship SLA metrics |
+| Financial pipeline uptime | **99%+** | SLA ops at Atos Global (Franklin Templeton, Cummins) |
+| Hidden shipment delay found | **15% delay rate** | SQL-engineered Days-to-Ship SLA metrics |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**SQL & Data Engineering**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-004880?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-0d6efd?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-1a3a4a?style=for-the-badge&logo=databricks&logoColor=white)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel & VBA](https://img.shields.io/badge/Excel%20%26%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Programming & Analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -85,38 +78,69 @@ WHERE name = 'Loknadh Kona';
 
 ## 🚀 Featured Projects
 
-### 🏗️ SQL Data Warehouse & Analytics
-> T-SQL · Star Schema · Medallion Architecture · SQL Server
+### 🏗️ SQL Data Warehouse & Analytics Pipeline
+> *T-SQL · Star Schema · Medallion Architecture · SQL Server*
 
-Built a production-grade data warehouse from scratch (Bronze → Silver → Gold). Wrote 13 advanced analytical scripts covering customer segmentation (VIP / Regular / New), product rankings, and time-series revenue analysis (YoY & MoM) using `RANK`, `DENSE_RANK`, `LAG`, and window functions.
+Built a **production-grade data warehouse from scratch** (Bronze → Silver → Gold layers). Engineered 13 advanced analytical scripts covering customer segmentation (VIP / Regular / New), product rankings, and time-series revenue analysis (YoY & MoM) using RANK, DENSE_RANK, LAG, and window functions.
 
-🔗 [View Repository  Data Warehouse →](https://github.com/KrishnaSai315/sql-DataWarehouse_Project)
-🔗 [View Repository Data Analytics →](https://github.com/KrishnaSai315/SQL-Data-Analytics)
+[![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/SQL-DataWareHouse_Project)
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/SQL-Data-Analytics)
 
 ---
 
 ### 📦 Supply Chain & Logistics BI Dashboard
-> Power BI · SQL · DAX · Data Modeling
+> *Power BI · SQL · DAX · Data Modeling*
 
-Uncovered a **15% hidden delay rate** in Standard Class shipments across the Southern region using custom SQL SLA metrics. Built interactive Power BI dashboards giving logistics managers a single view to isolate bottlenecks and drive corrective action.
+Uncovered a **hidden 15% delay rate** in Standard Class shipments across the Southern region using custom SQL SLA metrics. Built interactive Power BI dashboards giving logistics managers a single view to isolate bottlenecks and drive corrective action.
 
-🔗 [View Repository →](https://github.com/KrishnaSai315)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/SQL-Data-Analytics)
 
 ---
 
-## 📚 Education & Certifications
+### 📊 Customer Service Performance Dashboard
+> *Excel · Pivot Tables · Dynamic Slicers · KPI Tracking*
 
-```
-🎓  M.S. Data Science      University of Memphis           GPA: 3.81 / 4.0    2024–2025
-🎓  B.Tech. ECE            Amrita Sai Institute of S&T     GPA: 3.06 / 4.0    2017–2021
-```
+Interactive Excel dashboard analyzing **1,000+ call records** with dynamic slicers, KPI tracking for operational analytics, rep performance, and regional breakdowns — enabling fast, data-driven service decisions.
 
-![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Basic_(Apr_2026)-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-SQL_for_Data_Science_(UC_Davis)-0056D2?style=flat-square&logo=coursera&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-Excel_Skills_for_Business-0056D2?style=flat-square&logo=coursera&logoColor=white)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/customer-service-performance-dashboard)
+
+---
+
+### 💼 Data Science Salary Dashboard
+> *Excel · Array Formulas · FILTER Function · Map Charts*
+
+Interactive Excel dashboard exploring **2023 data science job salaries** across 9 roles, 50+ countries, and 5 schedule types — built with advanced array formulas and geographic map charts for instant global insight.
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaSai315/Data-Science-Salary-Dashboard)
+
+---
+
+## 🎓 Education & Certifications
+
+| Degree / Certification | Institution | Year |
+|---|---|---|
+| 🎓 M.S. Data Science · GPA 3.81 / 4.0 | University of Memphis | 2024 – 2025 |
+| 🎓 B.Tech. ECE · GPA 3.06 / 4.0 | Amrita Sai Institute of S&T | 2017 – 2021 |
+| 📜 SQL for Data Science | UC Davis (Coursera) | 2024 |
+| 📜 Excel Skills for Business: Essentials | Macquarie University (Coursera) | 2024 |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KrishnaSai315&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSai315&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a3a4a,100:0d1117&height=130&section=footer&text=Let%27s%20build%20something%20data-driven%20together&fontSize=16&fontColor=00e5ff&fontAlignY=65&animation=fadeIn" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a3a4a,100:0d1117&height=120&section=footer" />
+
+*"Data is not just numbers — it's the story behind every decision."*
+
 </div>
